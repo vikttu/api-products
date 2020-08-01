@@ -1,0 +1,19 @@
+{
+  "name": "api-products",
+  "version": "1.0.0",
+  "description": "API made with nodejs, express and mySQL for products in a shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikttu/api-products.git"
+  },
+  "author": "Viktor N.P.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikttu/api-products/issues"
+  },
+  "homepage": "https://github.com/vikttu/api-products#readme"
+}
